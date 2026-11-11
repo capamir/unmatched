@@ -179,3 +179,9 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# uv / virtualenv
+.venv/
+
+# tool caches
+.ruff_cache/
+.mypy_cache/
